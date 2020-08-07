@@ -1,6 +1,10 @@
 # New Server Side Render Component
 Introducing the `<ServerSideRenderX />` component as a direct replacement for the core `<ServerSideRender />` component.
 
+The core Server Side Render component is not optimized and provides a poor user experience.
+
+
+
 ## Usage
 
 Add the `server-side-render-x.js` file to the relevant place in your plugin (e.g. `/src/block/components`) and include in your code as you would for any other component.
