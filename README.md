@@ -2,13 +2,13 @@
 Introducing the `<ServerSideRenderX />` component as a direct replacement for the core `<ServerSideRender />` component, which is not optimized and provides a poor user experience as demonstrated below for the [Flexible FAQs](https://wpgoplugins.com/plugins/flexible-faqs/) block component.<br><br>
 
 <p align="center" style="margin:100px;">
-  <img src="https://user-images.githubusercontent.com/1482075/89642033-e4a0ba00-d8aa-11ea-9449-96e9fb9299e4.gif" width="600">
+  <img src="https://user-images.githubusercontent.com/1482075/89642033-e4a0ba00-d8aa-11ea-9449-96e9fb9299e4.gif" width="650">
 </p>
 
 The `<ServerSideRenderX />` component is almost identical to the core component except it uses the **previously rendered HTML as the placeholder**. This results in a *much* smoother transition between render states.<br><br>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/1482075/89642258-6395f280-d8ab-11ea-82b5-6cbba42ae72f.gif" width="600">
+  <img src="https://user-images.githubusercontent.com/1482075/89642258-6395f280-d8ab-11ea-82b5-6cbba42ae72f.gif" width="650">
 </p>
 
 ## Usage
