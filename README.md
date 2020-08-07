@@ -5,7 +5,9 @@ The core WordPress component to render dynamic blocks (`<ServerSideRender />`) i
   <img src="https://user-images.githubusercontent.com/1482075/89642033-e4a0ba00-d8aa-11ea-9449-96e9fb9299e4.gif" width="700">
 </p>
 
-To address this issue, the `<ServerSideRenderX />` component has been developed as a direct replacement for `<ServerSideRender />`.
+Notice how the *whole* block content area is replaced with a spinner whenever a block attribute is updated.
+
+Notice how the *whole* block content area is replaced with a spinner whenever a block attribute is updated. To address this issue, the `<ServerSideRenderX />` component has been developed as a direct replacement for `<ServerSideRender />`.
 
 <br>This new component is almost identical to `<ServerSideRender />` except it uses the **previously rendered HTML as the placeholder**. This results in a *much* smoother transition between render states.<br><br>
 
