@@ -1,7 +1,7 @@
 # New Server Side Render Component
 Introducing the `<ServerSideRenderX />` component as a direct replacement for the core `<ServerSideRender />` component.
 
-The core Server Side Render component is not optimized and provides a poor user experience as demonstrated below.
+The core Server Side Render component is not optimized and provides a poor user experience as demonstrated below.<br><br>
 
 
 <p align="center" style="margin:100px;">
