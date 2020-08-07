@@ -12,7 +12,6 @@ To address this issue, the `<ServerSideRenderX />` component has been developed 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/1482075/89642258-6395f280-d8ab-11ea-82b5-6cbba42ae72f.gif" width="700">
 </p>
-<br>
 
 ## Usage
 
