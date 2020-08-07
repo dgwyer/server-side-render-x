@@ -12,7 +12,6 @@ Introducing the `<ServerSideRenderX />` component as a direct replacement for th
 </p>
 
 <br>
-
 ## Usage
 
 Add the `server-side-render-x.js` file to the relevant place in your plugin (e.g. `/src/block/components`) and include in your code as you would for any other component.
