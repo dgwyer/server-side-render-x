@@ -1,11 +1,13 @@
 # New Server Side Render Component
-Introducing the `<ServerSideRenderX />` component as a direct replacement for the core `<ServerSideRender />` component, which is not optimized and provides a poor user experience as demonstrated below for the [Flexible FAQs](https://wpgoplugins.com/plugins/flexible-faqs/) block component.<br><br>
+The core WordPress component to render dynamic blocks (`<ServerSideRender />`) is not optimized and results in a poor user experience as demonstrated below for the [Flexible FAQs](https://wpgoplugins.com/plugins/flexible-faqs/) block.<br><br>
 
 <p align="center" style="margin:100px;">
   <img src="https://user-images.githubusercontent.com/1482075/89642033-e4a0ba00-d8aa-11ea-9449-96e9fb9299e4.gif" width="700">
 </p>
 
-<br>The `<ServerSideRenderX />` component is almost identical to the core component except it uses the **previously rendered HTML as the placeholder**. This results in a *much* smoother transition between render states.<br><br>
+To address this issue, the `<ServerSideRenderX />` component has been developed as a direct replacement for `<ServerSideRender />`.
+
+<br>This new component is almost identical to `<ServerSideRender />` except it uses the **previously rendered HTML as the placeholder**. This results in a *much* smoother transition between render states.<br><br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/1482075/89642258-6395f280-d8ab-11ea-82b5-6cbba42ae72f.gif" width="700">
