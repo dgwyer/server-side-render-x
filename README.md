@@ -17,7 +17,7 @@ To address this issue, a new `<ServerSideRenderX />` component has been develope
 
 ## Usage
 
-Add the `server-side-render-x.js` file to the relevant place in your plugin (e.g. `/src/block/components`) and include in your code as you would for any other component.
+Add the `server-side-render-x.js` file to the relevant place in your plugin (e.g. `/src/block/components`) and include it in your code as you would for any other component.
 
 Then use it in exactly the same way as `<ServerSideRender />` is used.
 
