@@ -1,5 +1,5 @@
 # New Server Side Render Component
-Introducing the `<ServerSideRenderX />` component as a direct replacement for the core `<ServerSideRender />` component, which is not optimized and provides a poor user experience as demonstrated below.<br><br>
+Introducing the `<ServerSideRenderX />` component as a direct replacement for the core `<ServerSideRender />` component, which is not optimized and provides a poor user experience as demonstrated below for the [Flexible FAQs](https://wpgoplugins.com/plugins/flexible-faqs/) block component.<br><br>
 
 <p align="center" style="margin:100px;">
   <img src="https://user-images.githubusercontent.com/1482075/89642033-e4a0ba00-d8aa-11ea-9449-96e9fb9299e4.gif" width="600">
