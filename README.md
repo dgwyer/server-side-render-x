@@ -5,13 +5,13 @@ Introducing the `<ServerSideRenderX />` component as a direct replacement for th
   <img src="https://user-images.githubusercontent.com/1482075/89642033-e4a0ba00-d8aa-11ea-9449-96e9fb9299e4.gif" width="700">
 </p>
 
-<br><br>The `<ServerSideRenderX />` component is almost identical to the core component except it uses the **previously rendered HTML as the placeholder**. This results in a *much* smoother transition between render states.<br><br>
+<br>The `<ServerSideRenderX />` component is almost identical to the core component except it uses the **previously rendered HTML as the placeholder**. This results in a *much* smoother transition between render states.<br><br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/1482075/89642258-6395f280-d8ab-11ea-82b5-6cbba42ae72f.gif" width="700">
 </p>
 
-<br><br>
+<br>
 
 ## Usage
 
