@@ -1,5 +1,5 @@
 # New Server Side Render Component
-The core WordPress component to render dynamic blocks (`<ServerSideRender />`) is not optimized and results in a poor user experience as demonstrated below for the [Flexible FAQs](https://wpgoplugins.com/plugins/flexible-faqs/) block.<br><br>
+The core WordPress component to render dynamic blocks (`<ServerSideRender />`) is not optimized and currently results in a poor user experience as demonstrated below for the [Flexible FAQs](https://wpgoplugins.com/plugins/flexible-faqs/) block.<br><br>
 
 <p align="center" style="margin:100px;">
   <img src="https://user-images.githubusercontent.com/1482075/89642033-e4a0ba00-d8aa-11ea-9449-96e9fb9299e4.gif" width="700">
