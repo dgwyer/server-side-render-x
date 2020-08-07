@@ -1,2 +1,2 @@
-# New `<ServerSideRenderX />` Component
-Modification of the core &lt;ServerSideRender /> component for a better rendering experience.
+# New Server Side Render Component
+Introducing the `<ServerSideRenderX />` component as a direct replacement for the core `<ServerSideRenderX />` component.
