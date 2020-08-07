@@ -19,7 +19,7 @@ To address this issue, a new `<ServerSideRenderX />` component has been develope
 
 Add the `server-side-render-x.js` file to the relevant place in your plugin (e.g. `/src/block/components`) and include it in your code as you would for any other component.
 
-Then implement it in exactly the same way as for `<ServerSideRender />`.
+Then implement the new component it in exactly the same way as for `<ServerSideRender />`.
 
     <ServerSideRenderX
       block="my-plugin/my-block"
