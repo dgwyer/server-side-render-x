@@ -26,7 +26,7 @@ Then implement the new component in exactly the same way as for `<ServerSideRend
       attributes={attributes}
     />
 
-The only difference is there is an additional optional `prop` available to specify the location for the spinner:
+There's also an additional (optional) `prop` available to specify the location for the spinner:
 
     <ServerSideRenderX
       block="my-plugin/my-block"
@@ -34,4 +34,4 @@ The only difference is there is an additional optional `prop` available to speci
       spinnerLocation={{right: 0, top: 10, unit: 'px'}}
     />
 
-The above value for `spinnerLocation` is the default used internally so leave this blank unless you need to specifically change it.
+The above value for `spinnerLocation` is the default used internally, so leave this blank unless you need to specifically change it.
