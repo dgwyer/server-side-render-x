@@ -3,7 +3,7 @@ Introducing the `<ServerSideRenderX />` component as a direct replacement for th
 
 The core Server Side Render component is not optimized and provides a poor user experience as demonstrated below.
 
-<img src="https://user-images.githubusercontent.com/1482075/89642033-e4a0ba00-d8aa-11ea-9449-96e9fb9299e4.gif" width="500">
+<div style="text-align:center;"><img src="https://user-images.githubusercontent.com/1482075/89642033-e4a0ba00-d8aa-11ea-9449-96e9fb9299e4.gif" width="500"></div>
 ![Server Side Render - Before](https://user-images.githubusercontent.com/1482075/89642033-e4a0ba00-d8aa-11ea-9449-96e9fb9299e4.gif)
 
 
