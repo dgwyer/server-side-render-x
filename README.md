@@ -13,6 +13,8 @@ To address this issue, a new `<ServerSideRenderX />` component has been develope
   <img src="https://user-images.githubusercontent.com/1482075/89642258-6395f280-d8ab-11ea-82b5-6cbba42ae72f.gif" width="700">
 </p>
 
+<br>A spinner is also included along with the previous HTML as an indicator that the content is being updated.
+
 ## Usage
 
 Add the `server-side-render-x.js` file to the relevant place in your plugin (e.g. `/src/block/components`) and include in your code as you would for any other component.
