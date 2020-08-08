@@ -34,4 +34,4 @@ There's also an additional (optional) `prop` available to specify the location f
       spinnerLocation={{right: 0, top: 10, unit: 'px'}}
     />
 
-The above value for `spinnerLocation` is the default value used internally, so leave this blank unless you need to specifically change it.
+The above value for `spinnerLocation` is the default value used internally, so you can leave this blank unless you need to specifically change it.
