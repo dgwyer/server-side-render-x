@@ -35,3 +35,7 @@ There's also an additional (optional) `prop` available to specify the location f
     />
 
 The above value for `spinnerLocation` is the default value used internally, so you can leave this blank unless you need to specifically change it.
+
+## More Details
+
+For more details please see the full [blog post](https://wpgoplugins.com/an-improved-server-side-render-component-for-dynamic-wordpress-blocks/).
